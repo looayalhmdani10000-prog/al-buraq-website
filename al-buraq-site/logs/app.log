@@ -1,0 +1,12 @@
+[2026-01-12 00:34:13] DB CONNECTION ERROR: SQLSTATE[HY000] [1045] Access denied for user 'alburaq_user'@'localhost' (using password: YES)
+[2026-01-12 00:34:25] DB CONNECTION ERROR: SQLSTATE[HY000] [1045] Access denied for user 'alburaq_user'@'localhost' (using password: YES)
+PHP ERROR TEST 2026-01-12T00:34:39+01:00
+PHP ERROR TEST 2026-01-12T00:34:57+01:00
+[2026-01-12 00:42:26] SAVE_ATTEMPT: {"ip":"::1","ua":"curl\/8.16.0","ajax":true}
+[2026-01-12 00:49:40] SAVE_ATTEMPT: {"ip":"::1","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36","ajax":true}
+[2026-01-12 00:50:05] SAVE_ATTEMPT: {"ip":"::1","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","ajax":true}
+[2026-01-12 00:51:45] SAVE_ATTEMPT: {"ip":"::1","ua":"curl\/8.16.0","ajax":true}
+[2026-01-14 01:32:33] SAVE_ATTEMPT: {"ip":"::1","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","ajax":true}
+[2026-01-14 02:13:47] SAVE_ATTEMPT: {"ip":"::1","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","ajax":true}
+[2026-01-14 02:16:56] SAVE_ATTEMPT: {"ip":"::1","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","ajax":true}
+[2026-01-14 02:23:15] SAVE_ATTEMPT: {"ip":"::1","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36 Edg\/143.0.0.0","ajax":true}

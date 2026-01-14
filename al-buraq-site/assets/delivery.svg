@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="deliveryTitle">
+  <title id="deliveryTitle">Delivery truck illustration</title>
+  <!-- trailer -->
+  <rect x="140" y="110" width="360" height="140" rx="12" fill="#6dc0b4" stroke="#3d9b8a" stroke-width="6"/>
+  <!-- cab -->
+  <rect x="80" y="150" width="120" height="90" rx="10" fill="#3d9b8a"/>
+  <!-- box icon on trailer -->
+  <rect x="220" y="140" width="140" height="100" rx="6" fill="#ffffff" opacity="0.9"/>
+  <rect x="260" y="160" width="60" height="40" rx="4" fill="#6dc0b4"/>
+  <!-- wheels -->
+  <circle cx="220" cy="280" r="30" fill="#222"/>
+  <circle cx="420" cy="280" r="30" fill="#222"/>
+  <circle cx="220" cy="280" r="14" fill="#666"/>
+  <circle cx="420" cy="280" r="14" fill="#666"/>
+  <!-- label -->
+  <text x="320" y="200" font-family="sans-serif" font-size="28" fill="#ffffff" text-anchor="middle" opacity="0.95">Delivery</text>
+</svg>
